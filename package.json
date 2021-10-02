@@ -1,0 +1,13 @@
+{
+  "name": "students-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kdg-bram-verdyck/students-api.git",
+  "author": "kdg-bram-verdyck <bram.verdyck@kdg.be>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
